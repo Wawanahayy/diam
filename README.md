@@ -1,3 +1,9 @@
+#Code need Dm
+/code_diam
+
+@JAWA_PRID3_bot
+https://t.me/JAWA_PRID3_bot
+
 # Git clone
 ```
 git clone https://github.com/Wawanahayy/diam
