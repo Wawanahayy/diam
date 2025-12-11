@@ -1,3 +1,9 @@
+# Git clone
+```
+git clone https://github.com/Wawanahayy/diam
+cd diam
+```
+
 ✅ Windows
 # diam.exe 
 double click / cmd → diam.exe
